@@ -7270,6 +7270,10 @@ Created using IcoMoon - icomoon.io
   color: #222222;
 }
 
+.cc-wordpress:hover i {
+  color: #21759b;
+}
+
 /* Credit Style */
 a.credit {
   color: inherit;
