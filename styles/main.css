@@ -7276,8 +7276,12 @@ Created using IcoMoon - icomoon.io
   color: #df0041;
 }
 
-.cc-github:hover i {
-  color: #24292e;
+.cc-gitlab:hover i {
+  color: #e2432a;
+}
+
+.cc-piwigo:hover i {
+  color: #ed7f30;
 }
 
 .cc-wordpress:hover i {
