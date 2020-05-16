@@ -7264,28 +7264,20 @@ Created using IcoMoon - icomoon.io
   color: #1da1f2;
 }
 
-.cc-mastodon:hover i {
-  color: #4a87ce;
+.cc-instagram:hover i {
+  color: #df0041;
 }
 
 .cc-linkedin:hover i {
   color: #0077b5;
 }
 
-.cc-instagram:hover i {
-  color: #df0041;
+.cc-flickr:hover i {
+  color: #e93883;
 }
 
-.cc-gitlab:hover i {
-  color: #e2432a;
-}
-
-.cc-piwigo:hover i {
-  color: #ed7f30;
-}
-
-.cc-wordpress:hover i {
-  color: #21759b;
+.cc-github:hover i {
+  color: #24292e;
 }
 
 /* Credit Style */
